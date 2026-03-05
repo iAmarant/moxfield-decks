@@ -14,9 +14,9 @@
 1 Bloodthirsty Blade (CLB) 854
 1 Captain's Hook (RIX) 177
 1 Castle Vantress (CLB) 885
-1 Command Beacon (C15) 56
 1 Command Tower (CLB) 351
 1 Creeping Tar Pit (CLB) 888
+1 Demolition Field (M3C) 335
 1 Dig Through Time (NCC) 219
 1 Drowned Catacomb (XLN) 253
 1 Eater of Virtue (NEO) 245
