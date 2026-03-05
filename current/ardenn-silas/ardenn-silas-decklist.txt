@@ -1,0 +1,88 @@
+1 Ardenn, Intrepid Archaeologist (CMR) 10
+1 Silas Renn, Seeker Adept (C16) 43 *F*
+1 Aboleth Spawn (CLB) 662
+1 Academy Ruins (TSP) 269
+1 Adaptive Omnitool (DRC) 32
+1 Aetherize (SLD) 1667
+1 An Offer You Can't Refuse (SNC) 51
+1 Arcane Denial (ALL) 22a
+1 Arcane Lighthouse (C14) 59
+1 Arcane Signet (CLB) 298
+1 Argentum Armor (C17) 202
+1 Assault Suit (C16) 242
+1 Austere Command (CLB) 687
+1 Authority of the Consuls (KLD) 5
+1 Bloodthirsty Blade (CLB) 854
+1 Captain's Hook (RIX) 177
+1 Castle Vantress (CLB) 885
+1 Command Beacon (C15) 56
+1 Command Tower (CLB) 351
+1 Creeping Tar Pit (CLB) 888
+1 Dig Through Time (NCC) 219
+1 Drowned Catacomb (XLN) 253
+1 Eye of Nidhogg (FIC) 44
+1 Fact or Fiction (CMM) 631
+1 Fateful Absence (PMID) 18p *F*
+1 Fetid Pools (AKH) 243
+1 Flooded Strand (KTK) 233
+1 Ghoulish Impetus (CMM) 732
+1 Glacial Fortress (XLN) 255
+1 Hallowed Fountain (RTR) 241
+1 Hot Soup (PLST) M15-219
+1 Hullbreaker Horror (CLB) 724
+1 Immortal Obligation (MKC) 10
+1 Inquisitor's Flail (ISD) 227
+1 Irrigated Farmland (AKH) 245
+6 Island (C16) 340
+1 Long River's Pull (BLB) 58
+1 Mangara, the Diplomat (M21) 27
+1 Mask of Riddles (NCC) 347
+1 Memories of Nibelheim (FCA) 26
+1 Memory Plunder (CLB) 849
+1 Mission Briefing (MKC) 110
+1 Mocking Doppelganger (CLB) 667
+1 Mystic Gate (CMM) 1013
+1 Mystic Sanctuary (MKC) 277
+1 Nimbus Maze (IMA) 242
+1 Nuka-Nuke Launcher (PIP) 434
+1 Path to Exile (DMC) 104
+6 Plains (C16) 337
+1 Polluted Delta (KTK) 239
+1 Port Town (NCC) 420
+1 Prairie Stream (NCC) 421
+1 Promise of Loyalty (MKC) 79
+1 Propaganda (CLB) 730
+1 Psychic Impetus (CLB) 89
+1 Quietus Spike (NCC) 377
+1 Rapid Hybridization (C15) 102
+1 Reality Shift (C19) 92
+1 Redemption Arc (MKC) 13
+1 Reins of Power (CLB) 734
+1 Reliquary Tower (CLB) 911
+1 Rivendell (LTR) 344 *F*
+1 Scavenger Grounds (HOU) 182
+1 Scytheclaw (C15) 53
+1 Silent Arbiter (C20) 250
+1 Single Combat (WAR) 30
+1 Slash the Ranks (CMR) 47
+1 Sol Ring (CLB) 871
+1 Sphinx's Revelation (RTR) 200
+1 Starfall Invocation (BLB) 298
+1 Strength-Testing Hammer (UNF) 193
+1 Sunken Hollow (CLB) 918
+3 Swamp (C16) 343
+1 Swan Song (LTC) 197
+1 Sword of the Animist (C17) 227
+1 Swords to Plowshares (NCC) 211
+1 Talisman of Dominance (CLB) 877
+1 Talisman of Progress (FIC) 367
+1 Teferi, Mage of Zhalfir (TSP) 83
+1 Temple of Enlightenment (THB) 246
+1 The Council of Four (CLB) 271 *F*
+1 Torpor Orb (NPH) 162
+1 Underground River (BRO) 300
+1 Unexplained Absence (MKC) 17
+1 Vorpal Sword (AFR) 124
+1 Wand of Orcus (AFC) 28
+1 Wayfarer's Bauble (CLB) 344
+1 Zenos yae Galvus / Shinryu, Transcendent Rival (FIN) 384
