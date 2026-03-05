@@ -2,7 +2,6 @@
 1 Silas Renn, Seeker Adept (C16) 43 *F*
 1 Aboleth Spawn (CLB) 662
 1 Academy Ruins (TSP) 269
-1 Adaptive Omnitool (DRC) 32
 1 Aetherize (SLD) 1667
 1 An Offer You Can't Refuse (SNC) 51
 1 Arcane Denial (ALL) 22a
@@ -20,8 +19,10 @@
 1 Creeping Tar Pit (CLB) 888
 1 Dig Through Time (NCC) 219
 1 Drowned Catacomb (XLN) 253
+1 Eater of Virtue (NEO) 245
 1 Eye of Nidhogg (FIC) 44
 1 Fact or Fiction (CMM) 631
+1 Faerie Artisans (CMM) 92
 1 Fateful Absence (PMID) 18p *F*
 1 Fetid Pools (AKH) 243
 1 Flooded Strand (KTK) 233
@@ -29,7 +30,6 @@
 1 Glacial Fortress (XLN) 255
 1 Hallowed Fountain (RTR) 241
 1 Hot Soup (PLST) M15-219
-1 Hullbreaker Horror (CLB) 724
 1 Immortal Obligation (MKC) 10
 1 Inquisitor's Flail (ISD) 227
 1 Irrigated Farmland (AKH) 245
@@ -44,7 +44,7 @@
 1 Mystic Gate (CMM) 1013
 1 Mystic Sanctuary (MKC) 277
 1 Nimbus Maze (IMA) 242
-1 Nuka-Nuke Launcher (PIP) 434
+1 Pact Weapon (CLB) 139
 1 Path to Exile (DMC) 104
 6 Plains (C16) 337
 1 Polluted Delta (KTK) 239
@@ -61,6 +61,7 @@
 1 Reliquary Tower (CLB) 911
 1 Rivendell (LTR) 344 *F*
 1 Scavenger Grounds (HOU) 182
+1 Scythe of the Wretched (MRD) 239
 1 Scytheclaw (C15) 53
 1 Silent Arbiter (C20) 250
 1 Single Combat (WAR) 30
@@ -68,7 +69,7 @@
 1 Sol Ring (CLB) 871
 1 Sphinx's Revelation (RTR) 200
 1 Starfall Invocation (BLB) 298
-1 Strength-Testing Hammer (UNF) 193
+1 Summon: Primal Odin (FIN) 121
 1 Sunken Hollow (CLB) 918
 3 Swamp (C16) 343
 1 Swan Song (LTC) 197
@@ -79,10 +80,9 @@
 1 Teferi, Mage of Zhalfir (TSP) 83
 1 Temple of Enlightenment (THB) 246
 1 The Council of Four (CLB) 271 *F*
-1 Torpor Orb (NPH) 162
+1 Trouble in Pairs (PZA) 3
 1 Underground River (BRO) 300
 1 Unexplained Absence (MKC) 17
 1 Vorpal Sword (AFR) 124
 1 Wand of Orcus (AFC) 28
 1 Wayfarer's Bauble (CLB) 344
-1 Zenos yae Galvus / Shinryu, Transcendent Rival (FIN) 384
